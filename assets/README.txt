@@ -1,0 +1,1 @@
+Add your couple photos here as couple-1.jpg, couple-2.jpg and couple-3.jpg. See the main README.txt for details.
