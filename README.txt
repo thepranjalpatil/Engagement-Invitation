@@ -19,18 +19,7 @@ The gallery uses three separate scenes cropped from the generated
 illustrated engagement collage. The standalone couple illustration
 is also included as assets/couple-cover.jpg for optional use.
 
-PREVIEW LOCALLY
-1. Unzip the downloaded folder.
-2. Open index.html in Chrome, Edge, Safari or Firefox.
-   For best results, run: python -m http.server 8000
-3. Visit http://localhost:8000
 
-PUBLISH FREE WITH GITHUB PAGES
-1. Create a new repository on GitHub.
-2. Upload index.html, styles.css, script.js, README.txt and the assets folder.
-3. Open repository Settings > Pages.
-4. Under Build and deployment, choose Deploy from a branch.
-5. Select main and /(root), then Save.
 6. GitHub will provide a public invitation URL after deployment.
 
 The site is static HTML, CSS and JavaScript. No framework, backend
